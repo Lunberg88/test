@@ -1,5 +1,6 @@
 # test
-Testing repo{filename} {command}
+Testing repo
+Run: php {filename} {command}
 
 Type: help to see all available commands;
 
